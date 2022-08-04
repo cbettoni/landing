@@ -1,0 +1,21 @@
+.banner {
+  background-image: linear-gradient(rgba(0,0,0,0.9), rgba(0,0,0,0.9));
+  background-size: cover;
+  background-position: center;
+  padding: 200px 0;
+}
+.container {
+  width: 900px;
+  margin: auto;
+}
+.banner h1 {
+  color: white;
+  font-style: linear-gradient(rgba(0,0,0,0.9), rgba(0,0,0,0.9));
+}
+.banner p {
+  color: white;
+  opacity: .7;
+  font-size: 20px;
+  font-style: linear-gradient(rgba(0,0,0,0.9), rgba(0,0,0,0.9));
+  padding-bottom: 25px;
+}
